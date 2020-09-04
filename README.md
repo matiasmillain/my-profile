@@ -38,5 +38,9 @@
 - [6 KYU](https://github.com/matiasmillain/codewars/tree/master/6-kyu)
 <!-- CODEWARS:END -->
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [email]: matimillain@gmail.com
 [linkedin]: https://linkedin.com/in/matimillain
